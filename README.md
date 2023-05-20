@@ -11,3 +11,6 @@ Basic functions :-
 Next version plans :- 
   1. Save list state
   2. Multiple list option
+
+Deployed to Netlify :- 
+https://megholova-to-do-app.netlify.app/
